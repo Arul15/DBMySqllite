@@ -55,6 +55,7 @@
 		2C5399701901099A00379598 /* DBSqlliteTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DBSqlliteTests-Info.plist"; sourceTree = "<group>"; };
 		2C5399721901099A00379598 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2C5399741901099A00379598 /* DBSqlliteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DBSqlliteTests.m; sourceTree = "<group>"; };
+		2C53997E19015C6500379598 /* constant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = constant.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +134,7 @@
 				2C53994F1901099A00379598 /* InfoPlist.strings */,
 				2C5399521901099A00379598 /* main.m */,
 				2C5399541901099A00379598 /* DBSqllite-Prefix.pch */,
+				2C53997E19015C6500379598 /* constant.h */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";

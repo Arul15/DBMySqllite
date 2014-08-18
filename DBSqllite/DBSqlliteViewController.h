@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DBSqlliteViewController : UIViewController
+@interface DBSqlliteViewController : UIViewController {
+    IBOutlet UITextField *pTxtUserName,*pTxtEmailID,*pTxtPassword;
+    NSMutableData *responseData;
+}
 
+- (IBAction)fnSubmit:(id)sender;
 @end
